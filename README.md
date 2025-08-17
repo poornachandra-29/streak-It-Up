@@ -1,12 +1,12 @@
-# streak-It-Up
+# streak-It-Up🔥
 A streak counter which is solely built based to help users build a habit
 Used tkinter library to make ot look user friendly
 ## Rules
-1.this is a strict streak counter app\n
-2.if you miss the work by 1 day also , then your current streak becomes 0\n
-3.unlike others , which have addvertisement options to not break your streak even tough you did perform your work,here it does not work like that\n
-4.This only for people who really want to build a habit\n
-5.It also has a reset option for who want to start again\n
+1.this is a strict streak counter app<br>
+2.if you miss the work by 1 day also , then your current streak becomes 0<br>
+3.unlike others , which have addvertisement options to not break your streak even tough you did perform your work,here it does not work like that<br>
+4.This only for people who really want to build a habit<br>
+5.It also has a reset option for who want to start again<br>
 
 It maintains the record of your best streak and current streak
 The data stored in the form of json format
