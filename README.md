@@ -11,4 +11,5 @@ Used tkinter library to make ot look user friendly
 It maintains the record of your best streak and current streak
 The data stored in the form of json format
 
-###this is how it looks
+### this is how it looks
+![Alt Text](https://github.com/poornachandra-29/streak-It-Up/blob/5ee7d00bb5fcc361e3faef7c9937b6764bb6a5ca/i.png)
